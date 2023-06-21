@@ -6,6 +6,9 @@ djangorestframework==3.14.0
 pytest==7.3.2
 pytest-django-4.5.2
 
+django-mptt
+drf-spectacular
+
 #Commands
 
 django-admin startproject drfcommerce
